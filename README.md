@@ -1,4 +1,5 @@
 # webPhpMysqlJavasript
+Si quieres verlo correctamente renombra la carpeta del proyecto por: SolucionesIntegrales
 Web en php,mysql,javascript usand json, fetch,async,await con librerias Bootstrap, gentelella y awesome
 1.Arquitectura MVC
 2.Tabla Roles crud
